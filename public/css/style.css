@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /*padding: 30px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #660033;
+  color: black;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.painel {
+  position: relative;
+}
+
+#titulo {
+  margin: 30px 30px;
+  /*padding: 15px;*/
+  color: #E8DDCB;
+}
+
+#titulo small {
+  color: #CDB380;
+}
+
+#content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#messages {
+  width: 800px;
+  height: 300px;
+  color: #033649;
+  background-color: #E8DDCB;
+  margin-bottom: 1em;
+  margin-right: 10px;
+  padding: 20px;
+}
+
+#help {
+  font: 10px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  margin: 0px 30px;
+}

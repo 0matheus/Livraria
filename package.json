@@ -1,0 +1,26 @@
+{
+  "name": "trab4",
+  "version": "1.0.0",
+  "description": "Trabalho da materia de tópicos de computaçao 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0matheus/Livraria.git"
+  },
+  "author": "Matheus Lino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0",
+    "validator": "^7.2.0",
+    "mime": "~1.2.7"
+  },
+  "bugs": {
+    "url": "https://github.com/0matheus/Livraria/issues"
+  },
+  "homepage": "https://github.com/0matheus/Livraria#readme"
+}
